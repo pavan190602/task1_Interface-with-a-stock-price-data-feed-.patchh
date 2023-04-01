@@ -1,0 +1,1 @@
+# task1_Interface-with-a-stock-price-data-feed-.patchh
